@@ -10,7 +10,7 @@
 * [ROS2 (+ Gazebo) Installation](https://mpolinowski.github.io/docs/Automation_and_Robotics/Robotics_Simulation/2023-11-19--ros2-gazebo-installation/2023-11-19)
 * [ROS2 Graph Concepts](https://mpolinowski.github.io/docs/Automation_and_Robotics/Robotics_Simulation/2023-11-24--ros2-graph/2023-11-24)
 * [ROS2 Gazebo Robot Simulation](https://mpolinowski.github.io/docs/Automation_and_Robotics/Robotics_Simulation/2023-11-26--ros2-gazebo-simulation/2023-11-26)
-* [ROS2 Graph Concepts](https://mpolinowski.github.io/docs/Automation_and_Robotics/Robotics_Simulation/2023-11-26--ros2-webots/2023-11-26)
+* [ROS2 Webots Robot Simulation](https://mpolinowski.github.io/docs/Automation_and_Robotics/Robotics_Simulation/2023-11-26--ros2-webots/2023-11-26)
 
 
 ![ROS2 Webots Robot Simulation](./assets/ROS2_Webots.webp)
